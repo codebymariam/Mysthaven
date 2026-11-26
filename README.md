@@ -1,24 +1,41 @@
-# Mysthaven
+<h1 align="center">Mysthaven</h1>
 
-[Play Mysthaven on itch.io](https://mariam04.itch.io/mysthaven)
+<p align="center"><strong>Gothic social deduction for 4–8 players</strong></p>
 
-Mysthaven is a multiplayer social-deduction game set in a gothic manor. Crew members complete shared tasks and vote out impostors. Impostors blend in, disrupt the crew, and try to reach parity.
+<p align="center">
+  <a href="https://mariam04.itch.io/mysthaven"><strong>Play on itch.io</strong></a> ·
+  <a href="#quick-start">Quick start</a> ·
+  <a href="docs/task-design-reference.md">Task design reference</a>
+</p>
 
-## How to play
+<p align="center">
+  <a href="https://mariam04.itch.io/mysthaven">
+    <img src="https://img.itch.zone/aW1nLzMyMzEyMzExLnBuZw==/original/IQwFew.png" width="560" alt="Mysthaven cover art showing a moonlit gothic manor">
+  </a>
+</p>
 
-- **Host:** Open the game, select **Play**, and create a lobby. Share the room code with friends. Start the match when everyone is ready.
-- **Join:** Select **Play**, join using the host's room code, then choose a character at the lobby mirror and ready up.
-- **In a match:** Check your role and objectives. As crew, complete tasks and report discoveries. During meetings, discuss what happened and vote.
+## Inside the manor
 
-## Keyboard controls
+Explore the manor, complete room-specific puzzles, and decide who to trust. **Crew** win by finishing their shared tasks or voting out the impostors. **Impostors** blend in, disrupt the crew, and try to match or outnumber the surviving crew. Use meetings to compare what you saw before casting your vote.
 
-| Control | Action |
+## Quick start
+
+1. Open [Mysthaven on itch.io](https://mariam04.itch.io/mysthaven) and select **Run game**, then **Play**.
+2. **Hosting?** Create a lobby and share its room code. **Joining?** Enter the host’s code.
+3. Choose a character at the lobby mirror and ready up. The host starts the match once everyone is ready.
+
+Play with a keyboard and mouse on desktop or use touch controls on iPad.
+
+<details>
+<summary><strong>Keyboard controls</strong></summary>
+
+| Key | Action |
 | --- | --- |
 | WASD or arrow keys | Move |
 | E | Interact |
 | R | Report |
 | M or Tab | Open the map |
-| V | Push to talk |
+| V | Push to talk when voice is available |
 | Shift | Dodge |
 | Q | Crew Strike or impostor Kill |
 | C | Character ability or Scanner |
@@ -26,4 +43,8 @@ Mysthaven is a multiplayer social-deduction game set in a gothic manor. Crew mem
 | G | Open Veil Summoning |
 | Esc | Toggle the relevant menu or overlay |
 
-[Illustrated task design reference](docs/task-design-reference.md)
+</details>
+
+## Design notes
+
+The [task design reference](docs/task-design-reference.md) covers 25 room tasks, including how the interface communicates progress, handles mistakes, and lets players retry.
