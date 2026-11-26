@@ -48,10 +48,10 @@ Developed for **COSC 452**, Mysthaven uses visible task references, direct manip
 
 ## Team
 
-| Team member | Documented study role |
-| --- | --- |
-| Mariam Alshehhi | Read task instructions |
-| Latifa Alnuaimi | Took observation notes |
-| Alhoor Alhosani | Read task instructions |
-| Fakhera Alhassani | Took observation notes |
-| Meera Aldarmaki | Handled screenshots or recording |
+| Team member |
+| --- |
+| Mariam Alshehhi |
+| Latifa Alnuaimi |
+| Alhoor Alhosani | 
+| Fakhera Alhassani | 
+| Meera Aldarmaki |
